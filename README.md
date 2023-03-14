@@ -20,7 +20,7 @@
 * Express "^4.16.4"
 * Express-handlebars "^3.1.0"
 
-## installation and execution - 安裝與執行步驟
+## Installation and execution - 安裝與執行步驟
 
 1.開啟Terminal, Clone此專案至本機:
 ```
